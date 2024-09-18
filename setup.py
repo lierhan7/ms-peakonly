@@ -7,7 +7,7 @@ install_requires = [
     'pandas',
     'pymzML',
     'scipy',
-    'torch==1.3.1',
+    'torch==1.7.0',
     'tqdm'
 ]
 
