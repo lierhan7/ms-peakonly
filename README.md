@@ -26,5 +26,5 @@ own Python script or notebook. In the following a small example on how to use it
 This API can be installed with `pip` or `python setup.py install` and is then available 
 via a simple import in your Python environment as shown above.
    
-    pip install git+https://github.com/sorenwacker/ms-peakonly
+    pip install git+https://github.com/lierhan7/ms-peakonly
     
