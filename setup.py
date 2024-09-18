@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 install_requires = [
     'bintrees',
     'matplotlib',
-    'numpy',
+    'numpy==1.18.0',
     'pandas',
     'pymzML',
     'scipy',
-    'torch>=1.2.0',
+    'torch==1.3.1',
     'tqdm'
 ]
 
